@@ -1,10 +1,4 @@
-﻿After you have chosen a topic, create a brief software requirements specification (SRS) document for the project. The SRS document should contain at least the following sections:
-
-- Introduction (with purpose and scope)
-- Overall description (with product perspective, product functions, and user characteristics)
-- Specific requirements
-
-**Introduction**
+﻿**Introduction**
 
 This is a computer car racing game (Car Racer) which can be playing by many users. Racing track has some obstacles that need to avoid. 
 
